@@ -1,3 +1,4 @@
 var playlist = {
-  JanetJackson: "All Night Don't Stop"
-}
+  JanetJackson: "All Night Don't Stop",
+  MeredithBrooks: "Bitch"
+};
